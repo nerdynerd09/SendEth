@@ -1,6 +1,6 @@
 # SendEth
 
-An app to transfer Ethereum Coins (in Ganache).
+An app built in Flutter/Dart to transfer Ethereum Coins (in Ganache).
 
 - This video helped me - [Link](https://youtu.be/jaMFEOCq_1s)
 
